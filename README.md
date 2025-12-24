@@ -1,6 +1,5 @@
-# meditationApp
+# Medidation App
 
-## Deployment URL  https://meditationapp--ujia2dbfbh.expo.app
 
 ## MeditationApp User Stories
 
@@ -120,7 +119,3 @@ As a **user**, I want to **use the app in dark mode** so that **I can reduce eye
 - The app remembers the user's last selected mode.
 - Dark mode applies to all screens and UI elements.
 
-### Story Points:
-**2**
-
-https://github.com/shkhoos97/meditationApp
